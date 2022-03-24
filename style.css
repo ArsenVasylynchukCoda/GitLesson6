@@ -7,9 +7,13 @@ span {
 }
 
 p {
+<<<<<<< HEAD
     color: aqua;
 }
 
 p {
     font-size: 25px;
+=======
+    color: cyan;
+>>>>>>> 5dde9337fb15325cc1673882dcd9000b0e288844
 }
