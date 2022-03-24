@@ -7,5 +7,9 @@ span {
 }
 
 p {
+<<<<<<< HEAD
     color: cyan;
+=======
+    color: aqua;
+>>>>>>> 25ede7a9b703578c659343f2622fb3393bcea628
 }
